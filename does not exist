@@ -1,0 +1,4 @@
+  fmt.Printf("Switched to branch: %s\n", branch)
+ } else {
+  fmt.Printf("Branch '%s' does not exist\n", branch)
+ }
